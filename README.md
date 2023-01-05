@@ -1,1 +1,1 @@
-# frontend-map
+# soil type map
